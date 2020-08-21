@@ -14,4 +14,4 @@ back-end para a aplicação Fale Mais
     npm install enum
 
 # Run
-\FaleMaisFrontend> node .\index.js
+\FaleMaisBackend> node .\index.js
